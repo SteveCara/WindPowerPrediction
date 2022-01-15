@@ -1,3 +1,3 @@
-import seaborn as sns
 
-print('test')
+def test_func():
+    pass
